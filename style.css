@@ -1,0 +1,39 @@
+body
+{
+    background-color: gray;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3
+{
+    font-size: 10px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 10px 10px lightseagreen;
+}
+
+.note
+{
+    color: wheat;
+    font-size: 15px;
+}
+
+.div_footer
+{
+    position: fixed;
+    background-color: white;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    line-height: 30px;
+    text-align: center;
+}
+
+canvas
+{
+    background-color: whitesmoke;
+    box-shadow: 10px 10px 10px wheat;
+    border: 5px solid whitesmoke;
+    border-radius: 10px;
+}
